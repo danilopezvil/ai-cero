@@ -33,3 +33,7 @@ Short summary paragraph (3-6 lines).
 
 Further reading / references
 ```
+
+## Next and ToDo
+
+- [ ] 1.2.1 The Many Names and Changing Fortunes of Neural Net- works
